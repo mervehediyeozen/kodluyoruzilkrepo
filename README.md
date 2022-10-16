@@ -1,11 +1,11 @@
-# KODLUYORUZ İLK REPO
+# Kodluyoruz İlk Repo
 
 --------------------------------------------------
 
 Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet deindex.html barındırıyor.
 
 
-# INSTALLATİON
+# Installation
 
 ---
 
@@ -15,7 +15,7 @@ git clone mervehediyeozen/kodluyoruzilkrepo
 ```
 
 
-# USAGE
+# Usage
 
 ---
 
