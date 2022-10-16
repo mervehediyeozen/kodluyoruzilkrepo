@@ -4,9 +4,11 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 
 
 # INSTALLATİON
-'''
-[Öncelikle projeyi klonlayın](https://github.com/mervehediyeozen/kodluyoruzilkrepo.git)
-'''
+Installation
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+'
+git clone https://github.com/ZOY-Z/kodluyoruzilkrepo/tree/main
+'
 
 #USAGE
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
