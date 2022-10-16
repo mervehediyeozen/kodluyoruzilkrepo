@@ -1,9 +1,12 @@
 # KODLUYORUZ İLK REPO
 
+--------------------------------------------------
+
 Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet deindex.html barındırıyor.
 
 
 # INSTALLATİON
+
 --------------------------------------------------
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
