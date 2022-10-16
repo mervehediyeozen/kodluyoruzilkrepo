@@ -10,9 +10,9 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 ---
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-`
-
-`
+```
+gh repo clone mervehediyeozen/kodluyoruzilkrepo
+```
 
 
 # USAGE
@@ -23,8 +23,8 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-`cd kodluyoruzilkrepo
-code . `
+```cd kodluyoruzilkrepo
+code . ```
 
 
 # Contributing
