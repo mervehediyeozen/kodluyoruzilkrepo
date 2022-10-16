@@ -1,5 +1,5 @@
 
-<img src=".img/kodluyoruz.png">
+<img src="./img/kodluyoruz.png">
 
 
 
