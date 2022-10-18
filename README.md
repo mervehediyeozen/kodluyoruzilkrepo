@@ -1,6 +1,8 @@
 
 <img src="./img/kodluyoruz.png">
 
+<a href="https://patika.dev.com">Patika</a>
+
 
 
 
